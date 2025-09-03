@@ -1,4 +1,4 @@
-# AI Emergency Service Assistant 🚑  
+# 🚑 AI Emergency Service Assistant  
 
 A machine learning–based project that predicts **KTAS (Korean Triage and Acuity Scale)** levels to assist in emergency triage. By using patient vitals and chief complaints, this tool aims to reduce **mistriage** and support **understaffed ER/trauma centers** with a fast, consistent triage assistant.
 

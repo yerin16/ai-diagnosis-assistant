@@ -1,8 +1,27 @@
-# AI Emergency Service Assistant 🚑  
+# 🚑 AI Emergency Service Assistant  
 
 A machine learning–based project that predicts **KTAS (Korean Triage and Acuity Scale)** levels to assist in emergency triage. By using patient vitals and chief complaints, this tool aims to reduce **mistriage** and support **understaffed ER/trauma centers** with a fast, consistent triage assistant.
 
 ![Four Models](https://github.com/yerin16/ai-diagnosis-assistant/blob/main/images/models.png?raw=true)
+
+
+## Table of Contents  
+- [Background & Motivation](#background--motivation)  
+- [What is KTAS?](#what-is-ktas)  
+- [Dataset](#dataset)  
+  - [General Information](#general-information)  
+  - [Data Visualization](#data-visualization)  
+- [Methods](#methods)  
+  - [Data Cleaning](#data-cleaning)  
+  - [Preprocessing](#preprocessing)  
+  - [Models Tested](#models-tested)  
+- [Results](#results)  
+  - [Model Accuracy Comparison](#model-accuracy-comparison)  
+  - [Testing with sample data](#testing-with-sample-data)  
+  - [Confusion Matrix](#confusion-matrix)  
+  - [Summary](#summary)  
+- [Conclusion & Future Work](#conclusion--future-work)  
+
 
 ## Background & Motivation
 Emergency rooms in South Korea face **understaffing and overcrowding**, leading to delayed or inaccurate triage. Similar (but less severe) problems exist in the US.  

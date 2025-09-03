@@ -23,6 +23,8 @@ This project introduces an **AI triage assistant** that:
 
 
 ## Dataset
+
+### General Information
 - **Source**: [Emergency Service Triage Application (Kaggle)](https://www.kaggle.com/datasets/ilkeryildiz/emergency-service-triage-application/data)  
 - **Size**: 1,267 patient records (2016–2017, Korea ER study)  
 - **Variables**: 24 (chief complaints, vitals, clinical outcomes)  
@@ -31,6 +33,9 @@ This project introduces an **AI triage assistant** that:
 
 ![Dataset](https://github.com/yerin16/ai-diagnosis-assistant/blob/main/images/dataset.png?raw=true)
 
+### Data Visualization
+![Data Visualization 1](https://github.com/yerin16/ai-diagnosis-assistant/blob/main/images/visualization-1.png?raw=true)\
+![Data Visualization 2](https://github.com/yerin16/ai-diagnosis-assistant/blob/main/images/visualization-2.png?raw=true)
 
 ## Methods
 
